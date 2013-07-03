@@ -1,0 +1,27 @@
+== 如何书写此wiki ==
+
+此wiki使用vim的vimwiki插件来生成。建议开始看此文前请先阅读[[https://raw.github.com/vimwiki/vimwiki/master/doc/vimwiki.txt|vimwiki文档]]。
+
+=== 获取文档 ===
+
+从GraspMonkey的Github上拉取本wiki源码：
+{{{ >
+    git clone https://github.com/GraspMonkey/Wiki.git
+}}}
+
+=== 安装 ===
+
+阅读wimki文档进行安装。
+
+=== 配置vimwiki ===
+
+ # 打开并且编辑vim配置文件，例如：/home/<yourname>/.vim/vimrc
+ # 加入以下配置：
+{{{ >
+    " 配置path为clone的项目中source目录路径，配置path_html为项目路径
+    let g:vimwiki_list = [{'path': '/home/jone/github/Wiki/source', 'path_html': '/home/jone/github/Wiki/'}]
+}}}
+
+=== 书写 ===
+
+打开vim，输入`\ww`，进入vimwiki进行编辑。

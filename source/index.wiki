@@ -1,0 +1,31 @@
+== Grap Monkey Wiki ==
+
+=== 关于此wiki ===
+
+此wiki记录一些技术内容，组内成员可以[[help_how-write-wiki|适当补充]]。
+部分词条需要补充信息的，可以修改链接新建词条。
+
+=== 主流游戏开发框架 ===
+
+[[http://china.unity3d.com/|Unity3d]] | [[http://cocos2d.cocoachina.com/|Cocos2d-x]] | [[http://www.unrealengine.com/zh/|Unreal Engine]]
+
+=== 预备人员 ===
+
+[[程序]] | [[美工]] | [[策划]]
+
+=== 创意集 ===
+
+`待补充...`
+
+=== 可参考游戏案例 ===
+
+[[http://www.flash8.net/flash/72812.shtml|吓一层]]
+
+=== 相关社区 ===
+
+[[http://tieba.baidu.com.cn/f?kw=%B6%C0%C1%A2%D3%CE%CF%B7|独立游戏贴吧]] | [[http://inpla.net/|IN星球]] | [[http://cocos2d.cocoachina.com/bbs/forum.php|Cocos2d-x论坛]]
+
+
+----
+
+Power by [[https://github.com/GraspMonkey/Wiki|github]]. Edit by [[https://github.com/vimwiki/vimwiki|vimwiki]]. 
